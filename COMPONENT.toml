@@ -1,0 +1,9 @@
+name = "SigmaOS-nvme"
+schema_version = 1
+responsibility = "NVMe MMIO controller, queue pairs, DMA-safe submission, and completion"
+canonical_owner = "SigmaOS-services"
+integration_repository = "https://github.com/AaryanSinghChauhan09/SigmaOS"
+capability = "nvme_driver_mmio"
+canonical_branch = "main"
+status = "scaffold"
+license = "GPL-3.0-or-later"
